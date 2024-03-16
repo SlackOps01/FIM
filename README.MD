@@ -37,7 +37,7 @@ FIM or File Integrity Monitor is a Python script that monitors specified directo
 
 ## Configuration
 
-You can customize the script behavior by modifying the following variables in `file_integrity_monitor.py`:
+You can customize the script behavior by modifying the following variables in `app.py`:
 
 - `DIRECTORY_TO_MONITOR`: Specify the directories you want to monitor.
 - `CHECK_INTERVAL`: Specify the interval (in seconds) between integrity checks.
