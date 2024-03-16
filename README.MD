@@ -30,7 +30,7 @@ FIM or File Integrity Monitor is a Python script that monitors specified directo
 2. Run the script:
 
     ```bash
-    python file_integrity_monitor.py
+    python app.py
     ```
 
 3. The script will start monitoring the specified directories and will notify you if any integrity violations are detected.
